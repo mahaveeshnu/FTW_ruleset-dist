@@ -1,0 +1,52 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "bybit-exchange.github.io",
+        "bybit.ada.support"
+      ],
+      "domain_suffix": [
+        "anz.com",
+        "anz.com.au",
+        "binance.com",
+        "binance.com.au",
+        "binance.info",
+        "binance.me",
+        "binance.net",
+        "binance.org",
+        "binance.us",
+        "binance.vision",
+        "binanceapi.com",
+        "bnbstatic.com",
+        "bntrace.com",
+        "byapis.com",
+        "byapps.net",
+        "bybit-global.com",
+        "bybit.biz",
+        "bybit.cloud",
+        "bybit.com",
+        "bybitglobal.com",
+        "bycsi.com",
+        "bytick.com",
+        "com.au",
+        "commbank.com.au",
+        "commsec.com.au",
+        "gov.au",
+        "hyperliquid.xyz",
+        "kraken.com",
+        "kraken.onl",
+        "nab.com.au",
+        "netbank.com.au",
+        "revolut.app",
+        "revolut.com",
+        "revolut.ltd",
+        "revolutwebapp.com",
+        "suncorp.com.au",
+        "suncorpbank.com.au",
+        "transferwise.com",
+        "wise.com"
+      ]
+    }
+  ]
+}
