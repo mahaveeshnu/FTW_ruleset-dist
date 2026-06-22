@@ -2,7 +2,7 @@
 
 - geosite-cn/Senshinya: Senshinya/singbox_ruleset/branches/main/rule/ChinaMaxNoIP/ChinaMaxNoIP.json: unsupported field `process_name`
 - geosite-cn: mihomo domain provider cannot preserve domain_keyword entries (13)
-- geosite-cn: mihomo domain provider cannot preserve domain_regex entries (11)
+- geosite-cn: mihomo domain provider cannot preserve domain_regex entries (8)
 - geosite-private: mihomo domain provider cannot preserve domain_regex entries (2)
 - crypto/Senshinya: Senshinya/singbox_ruleset/branches/main/rule/Crypto/Crypto.json: unsupported field `process_name`
 - crypto/blackmatrix7: blackmatrix7/ios_rule_script/branches/master/rule/Clash/Crypto/Crypto.yaml: unsupported mihomo rule `PROCESS-NAME,Binance.exe`
