@@ -730,6 +730,8 @@ DOMAIN,time.amazonaws.cn
 DOMAIN,time.izatcloud.net
 DOMAIN,time.xtracloud.net
 DOMAIN,tj-pod1-smp-device.apple.com
+DOMAIN,tj-pod2-smp-device.apple.com
+DOMAIN,tj-pod3-smp-device.apple.com
 DOMAIN,tl.gscm.tv
 DOMAIN,tlu.dl.delivery.mp.microsoft.com
 DOMAIN,tools.google.com
@@ -20615,6 +20617,7 @@ DOMAIN-SUFFIX,cbmf.org
 DOMAIN-SUFFIX,cbminfo.com
 DOMAIN-SUFFIX,cbmsci.com
 DOMAIN-SUFFIX,cbmwz.net
+DOMAIN-SUFFIX,cbn.cn
 DOMAIN-SUFFIX,cbn.me
 DOMAIN-SUFFIX,cbndata.com
 DOMAIN-SUFFIX,cbndata.org
@@ -23999,7 +24002,6 @@ DOMAIN-SUFFIX,chmod0777kk.com
 DOMAIN-SUFFIX,chmti.com
 DOMAIN-SUFFIX,chn-cstc.com
 DOMAIN-SUFFIX,chn-das.com
-DOMAIN-SUFFIX,chn.cn
 DOMAIN-SUFFIX,chn0769.com
 DOMAIN-SUFFIX,chn112.com
 DOMAIN-SUFFIX,chnart.com
@@ -66943,6 +66945,7 @@ DOMAIN-SUFFIX,madailicai.com
 DOMAIN-SUFFIX,madajiefood.com
 DOMAIN-SUFFIX,madaomall.com
 DOMAIN-SUFFIX,madboxi.com
+DOMAIN-SUFFIX,made-in-china.com
 DOMAIN-SUFFIX,madefuns.com
 DOMAIN-SUFFIX,madeinchinastone.com
 DOMAIN-SUFFIX,madewei.com
@@ -68760,6 +68763,7 @@ DOMAIN-SUFFIX,microwu.com
 DOMAIN-SUFFIX,microxiang.com
 DOMAIN-SUFFIX,microyan.com
 DOMAIN-SUFFIX,microzuji.com
+DOMAIN-SUFFIX,micstatic.com
 DOMAIN-SUFFIX,mictormedical.com
 DOMAIN-SUFFIX,micu.hk
 DOMAIN-SUFFIX,micun.com
@@ -76805,6 +76809,7 @@ DOMAIN-SUFFIX,powerchinashow.com
 DOMAIN-SUFFIX,powerchinayun.com
 DOMAIN-SUFFIX,powerde.com
 DOMAIN-SUFFIX,powereasy.net
+DOMAIN-SUFFIX,poweremarket.com
 DOMAIN-SUFFIX,powerex1.com
 DOMAIN-SUFFIX,powerflow-tech.com
 DOMAIN-SUFFIX,powerfulchina.com
