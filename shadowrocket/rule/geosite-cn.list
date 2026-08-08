@@ -12199,11 +12199,15 @@ DOMAIN-SUFFIX,airasia.com
 DOMAIN-SUFFIX,airbft.com
 DOMAIN-SUFFIX,airboo.com
 DOMAIN-SUFFIX,airchangan.com
+DOMAIN-SUFFIX,airchina.cn
 DOMAIN-SUFFIX,airchina.com
 DOMAIN-SUFFIX,airchina.com.cn
 DOMAIN-SUFFIX,airchinacargo.com
 DOMAIN-SUFFIX,airchinagroup.com
 DOMAIN-SUFFIX,airchinaim.com
+DOMAIN-SUFFIX,airchinalimited.cn
+DOMAIN-SUFFIX,airchinalimited.com
+DOMAIN-SUFFIX,airchinalimited.com.cn
 DOMAIN-SUFFIX,airchinamedia.com
 DOMAIN-SUFFIX,aircourses.com
 DOMAIN-SUFFIX,aircx.bid
@@ -19707,6 +19711,7 @@ DOMAIN-SUFFIX,bytetraffic.net
 DOMAIN-SUFFIX,bytetstatic.com
 DOMAIN-SUFFIX,bytetstatic.net
 DOMAIN-SUFFIX,byteug.com
+DOMAIN-SUFFIX,byteurl.cn
 DOMAIN-SUFFIX,bytevalk.com
 DOMAIN-SUFFIX,bytevcloudapi.com
 DOMAIN-SUFFIX,bytevcloudvod.com
@@ -20374,6 +20379,7 @@ DOMAIN-SUFFIX,caoxudong.info
 DOMAIN-SUFFIX,caoyudong.com
 DOMAIN-SUFFIX,capablist.com
 DOMAIN-SUFFIX,capatue.com
+DOMAIN-SUFFIX,capcut.cn
 DOMAIN-SUFFIX,capellahotelsanya.com
 DOMAIN-SUFFIX,capitalcloud.net
 DOMAIN-SUFFIX,capitaleco-pro.com
@@ -25318,6 +25324,7 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,cn-5.com
 DOMAIN-SUFFIX,cn-ab.com
 DOMAIN-SUFFIX,cn-aci.com
+DOMAIN-SUFFIX,cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,cn-bldc.com
 DOMAIN-SUFFIX,cn-bowei.com
 DOMAIN-SUFFIX,cn-boxing.com
@@ -25328,6 +25335,7 @@ DOMAIN-SUFFIX,cn-cddc.com
 DOMAIN-SUFFIX,cn-cdn1.skymansion.net
 DOMAIN-SUFFIX,cn-ceramic.com
 DOMAIN-SUFFIX,cn-cg.com
+DOMAIN-SUFFIX,cn-chengdu.aliyuncs.com
 DOMAIN-SUFFIX,cn-chenguang.com
 DOMAIN-SUFFIX,cn-comfort.com
 DOMAIN-SUFFIX,cn-cr.com
@@ -25338,6 +25346,7 @@ DOMAIN-SUFFIX,cn-em.com
 DOMAIN-SUFFIX,cn-ferment.com
 DOMAIN-SUFFIX,cn-ghtube.com
 DOMAIN-SUFFIX,cn-goldeneagle.com
+DOMAIN-SUFFIX,cn-guangzhou.aliyuncs.com
 DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,cn-hbs.com
 DOMAIN-SUFFIX,cn-healthcare.com
@@ -28606,6 +28615,7 @@ DOMAIN-SUFFIX,cxz.com
 DOMAIN-SUFFIX,cxzg.com
 DOMAIN-SUFFIX,cxzntc.com
 DOMAIN-SUFFIX,cxzw.com
+DOMAIN-SUFFIX,cxzx10086.cn
 DOMAIN-SUFFIX,cxzyjt.com
 DOMAIN-SUFFIX,cy-cdn.com
 DOMAIN-SUFFIX,cy-coo.com
@@ -37353,6 +37363,7 @@ DOMAIN-SUFFIX,flxc.net
 DOMAIN-SUFFIX,flxdns.cn
 DOMAIN-SUFFIX,flxdns.com
 DOMAIN-SUFFIX,flxzz.com
+DOMAIN-SUFFIX,fly-airchina.com
 DOMAIN-SUFFIX,fly-exp.com
 DOMAIN-SUFFIX,fly139.com
 DOMAIN-SUFFIX,fly160.com
@@ -49468,6 +49479,7 @@ DOMAIN-SUFFIX,hotelvi.com
 DOMAIN-SUFFIX,hotelyunos.com
 DOMAIN-SUFFIX,hotent.com
 DOMAIN-SUFFIX,hotent.xyz
+DOMAIN-SUFFIX,hotfix-api.aliyuncs.com
 DOMAIN-SUFFIX,hotgamehl.com
 DOMAIN-SUFFIX,hotgopark.com
 DOMAIN-SUFFIX,hotiis.com
@@ -71978,6 +71990,7 @@ DOMAIN-SUFFIX,nfbdc154.org
 DOMAIN-SUFFIX,nfc315.com
 DOMAIN-SUFFIX,nfcic.com
 DOMAIN-SUFFIX,nfcmag.com
+DOMAIN-SUFFIX,nfcos.cn
 DOMAIN-SUFFIX,nfcreader.net
 DOMAIN-SUFFIX,nfcs-med.com
 DOMAIN-SUFFIX,nfcs-medical.com
@@ -73737,6 +73750,7 @@ DOMAIN-SUFFIX,nvkan.com
 DOMAIN-SUFFIX,nvpuse.com
 DOMAIN-SUFFIX,nvpuwo.com
 DOMAIN-SUFFIX,nvsay.com
+DOMAIN-SUFFIX,nvsgames.cn
 DOMAIN-SUFFIX,nvshenfan.com
 DOMAIN-SUFFIX,nvsheng.com
 DOMAIN-SUFFIX,nvshengjie.com
@@ -76009,6 +76023,9 @@ DOMAIN-SUFFIX,phoemix.net
 DOMAIN-SUFFIX,phoenix-ea.com
 DOMAIN-SUFFIX,phoenixcenter.cn
 DOMAIN-SUFFIX,phoenixfilters.net
+DOMAIN-SUFFIX,phoenixmiles.cn
+DOMAIN-SUFFIX,phoenixmiles.com
+DOMAIN-SUFFIX,phoenixmiles.com.cn
 DOMAIN-SUFFIX,phoenixtea.org
 DOMAIN-SUFFIX,phoenixtv.com
 DOMAIN-SUFFIX,phoent.com
@@ -80738,6 +80755,7 @@ DOMAIN-SUFFIX,regexlab.com
 DOMAIN-SUFFIX,regexr-cn.com
 DOMAIN-SUFFIX,regist.alphassl.com
 DOMAIN-SUFFIX,regist.globalsign.com
+DOMAIN-SUFFIX,registry.aliyuncs.com
 DOMAIN-SUFFIX,reglogo.net
 DOMAIN-SUFFIX,regltd.com
 DOMAIN-SUFFIX,regtm.com
