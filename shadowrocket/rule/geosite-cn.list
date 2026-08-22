@@ -29,7 +29,6 @@ DOMAIN,ads3-normal.zijieapi.com
 DOMAIN,ads5-normal-hl.zijieapi.com
 DOMAIN,ads5-normal.zijieapi.com
 DOMAIN,adservice.google.com
-DOMAIN,afcs.dell.com
 DOMAIN,ai.zhaomi.cn
 DOMAIN,aka-amd-njpwworld-hls-enlive.akamaized.net
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
@@ -149,7 +148,6 @@ DOMAIN,client-api.itunes.apple.com
 DOMAIN,client.amplifi.com
 DOMAIN,clientflow.apple.com
 DOMAIN,clientflow.apple.com.akadns.net
-DOMAIN,clientperipherals.dell.com
 DOMAIN,clientservices.googleapis.com
 DOMAIN,cma.itunes.apple.com
 DOMAIN,cn-smp-paymentservices.apple.com
@@ -176,7 +174,6 @@ DOMAIN,cstat.cdn-apple.com
 DOMAIN,ctdsb.clouddiffuse.xyz
 DOMAIN,ctldl.windowsupdate.com
 DOMAIN,cueme-api.quark.cn
-DOMAIN,customization-cdn.dell.com
 DOMAIN,d9af5a60.edmonst.net
 DOMAIN,dartsearch-cn.net
 DOMAIN,dc1-cert.ksn.kaspersky-labs.com
@@ -185,14 +182,12 @@ DOMAIN,dc1-pp.ksn.kaspersky-labs.com
 DOMAIN,dc1-st.ksn.kaspersky-labs.com
 DOMAIN,dc1.ksn.kaspersky-labs.com
 DOMAIN,dd-cdn.origin-apple.com.akadns.net
-DOMAIN,dds.dell.com
 DOMAIN,dejavu.apple.com
 DOMAIN,developer.microsoft.com
 DOMAIN,devimages-cdn.apple.com
 DOMAIN,devstreaming-cdn.apple.com
 DOMAIN,dg-meta.video.google.com
 DOMAIN,discussionschinese.apple.com
-DOMAIN,dl.dell.com
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,dnl-00.geo.kaspersky.com
@@ -227,12 +222,8 @@ DOMAIN,downloaddispatch.itunes.apple.com
 DOMAIN,dreamspark.download.prss.microsoft.com
 DOMAIN,dreamsparkuat.download.prss.microsoft.com
 DOMAIN,e1.vdowowza.vip.hk1.tvb.com
-DOMAIN,ea2cn-dev-outlet.dell.com
-DOMAIN,ea2cn-prod-outlet.dell.com
-DOMAIN,ea2cn-staging-outlet.dell.com
 DOMAIN,edge.geo.kaspersky.com
 DOMAIN,edge.music-choice-play-chaina1.top.comcast.net
-DOMAIN,emoi-cncdn.bing.com
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
 DOMAIN,enrichgw.10010.com
@@ -242,7 +233,6 @@ DOMAIN,experiments.apple.com
 DOMAIN,f.c2r.ts.cdn.office.net
 DOMAIN,f24hls-i.akamaihd.net
 DOMAIN,fash1043.cloudycdn.services
-DOMAIN,fcs.dell.com
 DOMAIN,fides-pol.apple.com
 DOMAIN,file.hhtv.cc
 DOMAIN,file.mb.leshantv.net
@@ -255,17 +245,11 @@ DOMAIN,fontfiles.googleapis.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
 DOMAIN,fpinit.itunes.apple.com
-DOMAIN,fta.dell.com
-DOMAIN,ftaapj.dell.com
-DOMAIN,ftaemea.dell.com
-DOMAIN,ftasitapj.dell.com
 DOMAIN,g0.gstatic.com
 DOMAIN,g1.gstatic.com
 DOMAIN,g2.gstatic.com
 DOMAIN,g3.gstatic.com
 DOMAIN,gayotv.net
-DOMAIN,gbxgateway-dev.dell.com
-DOMAIN,gbxgateway.dell.com
 DOMAIN,gog.qtlglb.com
 DOMAIN,gonglchuangl.net
 DOMAIN,gongyichuangyi.net
@@ -329,7 +313,6 @@ DOMAIN,hls.wlrn.mobi
 DOMAIN,hospital.pku.edu.cn
 DOMAIN,hs.wosms.cn
 DOMAIN,httpdvb.slave.ttcatv.tv
-DOMAIN,i.dell.com
 DOMAIN,i.pki.goog
 DOMAIN,icecast-ruvr.cdnvideo.ru
 DOMAIN,id6.me
@@ -483,7 +466,6 @@ DOMAIN,myvs.download.prss.microsoft.com
 DOMAIN,n18.rcs.revma.com
 DOMAIN,necgokr2-724.acs.wecandeo.com
 DOMAIN,nettvpro.live
-DOMAIN,nexus.dell.com
 DOMAIN,nhkw-zh-hlscomp.akamaized.net
 DOMAIN,nhkwlive-xjp.akamaized.net
 DOMAIN,nis.stream.publicradio.org
@@ -523,7 +505,6 @@ DOMAIN,osrelease.download.prss.microsoft.com
 DOMAIN,osxapps.itunes.apple.com
 DOMAIN,osxapps.itunes.g.aaplimg.com
 DOMAIN,ott-live.olympicchannel.com
-DOMAIN,p.cdn.persaas.dell.com
 DOMAIN,p00.upd.kaspersky.com
 DOMAIN,p01.upd.kaspersky.com
 DOMAIN,p02.upd.kaspersky.com
@@ -636,7 +617,6 @@ DOMAIN,s4.mzstatic.com
 DOMAIN,s5.mzstatic.com
 DOMAIN,safebrowsing-cache.google.com
 DOMAIN,safebrowsing.googleapis.com
-DOMAIN,scene7-cdn.dell.com
 DOMAIN,sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 DOMAIN,sdx.microsoft.com
 DOMAIN,se-edge.itunes.apple.com
@@ -652,13 +632,9 @@ DOMAIN,sf-api-token-service.itunes.apple.com
 DOMAIN,sh-pod2-smp-device.apple.com
 DOMAIN,shazam-insights.cdn-apple.com
 DOMAIN,shell.cdn.office.net
-DOMAIN,si.cdn.dell.com
 DOMAIN,slive.ytn.co.kr
-DOMAIN,sm.dell.com
 DOMAIN,smp-device-content.apple.com
 DOMAIN,sms.imagetasks.com
-DOMAIN,snp.cdn.dell.com
-DOMAIN,snpi.dell.com
 DOMAIN,software.download.prss.microsoft.com
 DOMAIN,sohucao.duapp.com
 DOMAIN,sp.itunes.apple.com
@@ -709,7 +685,6 @@ DOMAIN,study.163.com
 DOMAIN,su.itunes.apple.com
 DOMAIN,support-china.apple-support.akadns.net
 DOMAIN,support.apple.com
-DOMAIN,supportassist.dell.com
 DOMAIN,surface.download.prss.microsoft.com
 DOMAIN,surface.downloads.prss.microsoft.com
 DOMAIN,swallow-apple-com.v.aaplimg.com
@@ -735,7 +710,6 @@ DOMAIN,tj-pod3-smp-device.apple.com
 DOMAIN,tl.gscm.tv
 DOMAIN,tlu.dl.delivery.mp.microsoft.com
 DOMAIN,tools.google.com
-DOMAIN,tp.louisvuitton.com
 DOMAIN,trtcanlitv-lh.akamaihd.net
 DOMAIN,trts.baishancdnx.cn
 DOMAIN,tv.cnbeijing.xyz
@@ -750,7 +724,6 @@ DOMAIN,update.googleapis.com
 DOMAIN,updates-http.cdn-apple.com
 DOMAIN,updates-http.cdn-apple.com.akadns.net
 DOMAIN,updates.cdn-apple.com
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
 DOMAIN,upp.itunes.apple.com
 DOMAIN,v1.one-tv.com
@@ -780,13 +753,11 @@ DOMAIN,wowza.montevideo.com.uy
 DOMAIN,wowza.ner.gov.tw
 DOMAIN,wpc.124ce.sigmacdn.net
 DOMAIN,wuwm.streamguys1.com
-DOMAIN,www-csb.dell.com
 DOMAIN,www-google-analytics.l.google.com
 DOMAIN,www-googletagmanager.l.google.com
 DOMAIN,www.apple.com
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,www.cbsnews.com
-DOMAIN,www.dell.com
 DOMAIN,www.destinationurl.com
 DOMAIN,www.entrust.cn
 DOMAIN,www.filmon.com
