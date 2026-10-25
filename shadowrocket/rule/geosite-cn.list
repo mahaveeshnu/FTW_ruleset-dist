@@ -59,6 +59,7 @@ DOMAIN,app-analytics-services.com
 DOMAIN,app-measurement-cn.com
 DOMAIN,app-measurement.com
 DOMAIN,app-site-association.cdn-apple.com
+DOMAIN,app.moegirl.org.cn
 DOMAIN,appldnld.apple.com
 DOMAIN,appldnld.g.aaplimg.com
 DOMAIN,appleid.cdn-apple.com
@@ -661,6 +662,7 @@ DOMAIN,status.alibabacloud.com
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,stocks-sparkline-lb.apple.com.akadns.net
 DOMAIN,stocks-sparkline.apple.com
+DOMAIN,storage.moegirl.org.cn
 DOMAIN,store.apple.com
 DOMAIN,store.apple.com.edgekey.net
 DOMAIN,store.apple.com.edgekey.net.globalredir.akadns.net
@@ -10476,6 +10478,7 @@ DOMAIN-SUFFIX,aadcloud.cn
 DOMAIN-SUFFIX,aadcloud.com
 DOMAIN-SUFFIX,aadrm.cn
 DOMAIN-SUFFIX,aads-cng.net
+DOMAIN-SUFFIX,aaej.cn
 DOMAIN-SUFFIX,aafanke.cc
 DOMAIN-SUFFIX,aafxw.com
 DOMAIN-SUFFIX,aaic.com.cn
@@ -18226,6 +18229,7 @@ DOMAIN-SUFFIX,bocamchina.com
 DOMAIN-SUFFIX,bocaviation.com
 DOMAIN-SUFFIX,boccfc.cc
 DOMAIN-SUFFIX,boccfc.cn
+DOMAIN-SUFFIX,bocd.com.cn
 DOMAIN-SUFFIX,boce.com
 DOMAIN-SUFFIX,boce003.com
 DOMAIN-SUFFIX,bocep2c.com
@@ -26706,6 +26710,7 @@ DOMAIN-SUFFIX,cqgaoke.com
 DOMAIN-SUFFIX,cqgc.com
 DOMAIN-SUFFIX,cqgdcy.com
 DOMAIN-SUFFIX,cqgdkf.com
+DOMAIN-SUFFIX,cqge.com.cn
 DOMAIN-SUFFIX,cqgearbox.com
 DOMAIN-SUFFIX,cqgewerv.com
 DOMAIN-SUFFIX,cqggwx.com
@@ -26977,6 +26982,7 @@ DOMAIN-SUFFIX,cqs-hm.com
 DOMAIN-SUFFIX,cqsamr.com
 DOMAIN-SUFFIX,cqscmy.net
 DOMAIN-SUFFIX,cqsdei.com
+DOMAIN-SUFFIX,cqsdlys.cn
 DOMAIN-SUFFIX,cqsdzy.com
 DOMAIN-SUFFIX,cqsfqcpj.com
 DOMAIN-SUFFIX,cqsfybjy.com
@@ -41236,6 +41242,7 @@ DOMAIN-SUFFIX,gpxygpfx.com
 DOMAIN-SUFFIX,gpxz.com
 DOMAIN-SUFFIX,gpxzw.com
 DOMAIN-SUFFIX,gpydxl.com
+DOMAIN-SUFFIX,gpzshq.cn
 DOMAIN-SUFFIX,gqbmt.com
 DOMAIN-SUFFIX,gqgkj.com
 DOMAIN-SUFFIX,gqjd.net
@@ -52183,7 +52190,6 @@ DOMAIN-SUFFIX,icljt.com
 DOMAIN-SUFFIX,icloud-apple.cn
 DOMAIN-SUFFIX,icloud-content.com.cn
 DOMAIN-SUFFIX,icloud-power.com
-DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.net.cn
 DOMAIN-SUFFIX,icloudapple.cn
@@ -54125,6 +54131,7 @@ DOMAIN-SUFFIX,ishuw.com
 DOMAIN-SUFFIX,isi-gf.com
 DOMAIN-SUFFIX,isiabio.com
 DOMAIN-SUFFIX,isign.ren
+DOMAIN-SUFFIX,isigning.cn
 DOMAIN-SUFFIX,isigning.com
 DOMAIN-SUFFIX,isigu.com
 DOMAIN-SUFFIX,isilent.me
@@ -69023,8 +69030,6 @@ DOMAIN-SUFFIX,moeelf.com
 DOMAIN-SUFFIX,moefactory.com
 DOMAIN-SUFFIX,moefantasy.com
 DOMAIN-SUFFIX,moefou.org
-DOMAIN-SUFFIX,moegirl.org
-DOMAIN-SUFFIX,moegirl.org.cn
 DOMAIN-SUFFIX,moegirl.tw
 DOMAIN-SUFFIX,moehot.com
 DOMAIN-SUFFIX,moehu.org
