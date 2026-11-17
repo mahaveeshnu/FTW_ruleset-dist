@@ -161,6 +161,7 @@ DOMAIN,collaborateppe.download.prss.microsoft.com
 DOMAIN,communities.apple.com
 DOMAIN,configuration.apple.com
 DOMAIN,configuration.apple.com.akadns.net
+DOMAIN,configuration.ls.apple.com
 DOMAIN,connectivitycheck.gstatic.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,crl-lb.apple.com.akadns.net
@@ -470,10 +471,12 @@ DOMAIN,msdn.download.prss.microsoft.com
 DOMAIN,msdprod-ad.download.prss.microsoft.com
 DOMAIN,msproduct.download.prss.microsoft.com
 DOMAIN,music.apple.com
+DOMAIN,musicstatus.itunes.apple.com
 DOMAIN,musicstatus.music.apple.com
 DOMAIN,mvod.itunes.apple.com
 DOMAIN,myapp.itunes.apple.com
 DOMAIN,myvs.download.prss.microsoft.com
+DOMAIN,mzstorekit.itunes.apple.com
 DOMAIN,n18.rcs.revma.com
 DOMAIN,necgokr2-724.acs.wecandeo.com
 DOMAIN,nettvpro.live
@@ -13702,6 +13705,8 @@ DOMAIN-SUFFIX,ark301.com
 DOMAIN-SUFFIX,arkfeng.xyz
 DOMAIN-SUFFIX,arkfwq.com
 DOMAIN-SUFFIX,arkid.cc
+DOMAIN-SUFFIX,arknights.com
+DOMAIN-SUFFIX,arknights.com.cn
 DOMAIN-SUFFIX,arknightsframeassistant.com
 DOMAIN-SUFFIX,arkoo.com
 DOMAIN-SUFFIX,arkrdigital.com
@@ -19919,6 +19924,7 @@ DOMAIN-SUFFIX,caps-china.org
 DOMAIN-SUFFIX,capsuleshanghai.com
 DOMAIN-SUFFIX,captain-cro.com
 DOMAIN-SUFFIX,captainbi.com
+DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,capturetheflag.fun
 DOMAIN-SUFFIX,capvision.com
 DOMAIN-SUFFIX,capwhale.com
@@ -51054,6 +51060,7 @@ DOMAIN-SUFFIX,hybssy.com
 DOMAIN-SUFFIX,hyc.com
 DOMAIN-SUFFIX,hyccw.com
 DOMAIN-SUFFIX,hycdn.cc
+DOMAIN-SUFFIX,hycdn.cn
 DOMAIN-SUFFIX,hycdn.com
 DOMAIN-SUFFIX,hycet.com
 DOMAIN-SUFFIX,hycfw.com
@@ -51142,7 +51149,9 @@ DOMAIN-SUFFIX,hypefolio.net
 DOMAIN-SUFFIX,hyper.sh
 DOMAIN-SUFFIX,hypercachenet.com
 DOMAIN-SUFFIX,hypercachenode.com
+DOMAIN-SUFFIX,hypergryph.cn
 DOMAIN-SUFFIX,hypergryph.com
+DOMAIN-SUFFIX,hypergryph.com.cn
 DOMAIN-SUFFIX,hypergryph.net
 DOMAIN-SUFFIX,hypers.com
 DOMAIN-SUFFIX,hypersilicon.com
@@ -73375,6 +73384,7 @@ DOMAIN-SUFFIX,ocsp2.globalsign.com
 DOMAIN-SUFFIX,ocssaas.com
 DOMAIN-SUFFIX,oct-asia.com
 DOMAIN-SUFFIX,oct-cts.com
+DOMAIN-SUFFIX,octavedge.com
 DOMAIN-SUFFIX,octbay.com
 DOMAIN-SUFFIX,octcommercial.com
 DOMAIN-SUFFIX,octeshow.com
@@ -86405,6 +86415,7 @@ DOMAIN-SUFFIX,skjcsc.com
 DOMAIN-SUFFIX,skktec.com
 DOMAIN-SUFFIX,skl.net
 DOMAIN-SUFFIX,skland.com
+DOMAIN-SUFFIX,skland.net
 DOMAIN-SUFFIX,skldoor.com
 DOMAIN-SUFFIX,sklinux.com
 DOMAIN-SUFFIX,skmgc.com
