@@ -12,7 +12,7 @@
 - ai/blackmatrix7: blackmatrix7/ios_rule_script/branches/master/rule/Clash/OpenAI/OpenAI.yaml: unsupported mihomo rule `IP-ASN,20473`
 - ai/blackmatrix7: blackmatrix7/ios_rule_script/branches/master/rule/Clash/Copilot/Copilot.yaml: unsupported mihomo rule `IP-ASN,14061`
 - ai/blackmatrix7: blackmatrix7/ios_rule_script/branches/master/rule/Clash/Copilot/Copilot.yaml: unsupported mihomo rule `IP-ASN,20473`
-- ai: mihomo domain provider cannot preserve domain_keyword entries (7)
+- ai: mihomo domain provider cannot preserve domain_keyword entries (8)
 - ai: mihomo domain provider cannot preserve domain_regex entries (1)
 - social-media/Senshinya: Senshinya/singbox_ruleset/branches/main/rule/TikTok/TikTok.json: unsupported field `process_name`
 - social-media/blackmatrix7: blackmatrix7/ios_rule_script/branches/master/rule/Clash/Facebook/Facebook.yaml: unsupported mihomo rule `IP-ASN,32934`
